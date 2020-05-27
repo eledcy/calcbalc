@@ -3,7 +3,7 @@ calcbalc is a dark themed calculator that I made using the module tkinter in pyt
 
 # permisions
 this is not to be edited in any way and not allowed to be converted to any other file type, but except for that you could do anything you want, put it on different sites it if you want to, make sure you credit me "Matthew Young", and yea! also you agree that this could cuase
-threat to your computer check warning to find out more!
+threat to your computer check warning to find out more! and I can not be held liable.
 
 # warning
 this program could cuase your computer to dieeeeeeeeeeeee! my norton is saying that my program is cuasing
